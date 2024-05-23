@@ -10,8 +10,8 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@mattie-bundle/strapi-plugin-search": "1.0.0-alpha.3",
-    "@mattie-bundle/strapi-provider-search-algolia": "1.0.0-alpha.3",
+    "@mattie-bundle/strapi-plugin-search": "latest",
+    "@mattie-bundle/strapi-provider-search-algolia": "latest",
     "@strapi/plugin-cloud": "4.24.2",
     "@strapi/plugin-i18n": "4.24.2",
     "@strapi/plugin-users-permissions": "4.24.2",
